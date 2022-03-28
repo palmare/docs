@@ -8,7 +8,7 @@ PAS has an unlimited supply and is earned when a user moves in Solo or Backgroun
 
 
 
-#### GST Burning Mechanics (Destroying)
+#### PAS Burning Mechanics (Destroying)
 
 The PAS is burned by:
 
