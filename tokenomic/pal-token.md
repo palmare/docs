@@ -22,6 +22,8 @@ Reveals once Twitter followers reach 150k.
 
 Reveals once Twitter followers reach 150k.
 
-#### PAL Burning Mechanics (Destroying)
+
+
+PAL Burning Mechanics (Destroying)
 
 Reveals once Twitter followers reach 200k.

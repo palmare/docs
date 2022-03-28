@@ -4,7 +4,7 @@
 
 In Solo Mode, users are equipped with NFT bicycles to earn tokens by riding. Energy is needed to earn PAS tokens. Every 1 Energy equals 5 minutes of ride & earn movement and Energy which ONLY starts replenishing after users acquire an NFT Bicycle. To begin, users select a Bicycle of their choice, and press **Start button** ▶
 
-Users should see a status on the top of the screen showing either **Casual** or **Recreational**.
+Users should see a status on the top of the screen showing either **Casual** or **Practice**.
 
 **Freezing**: This will be shown if the app detects a weak GPS/internet signal, or the user is not organically moving (i.e. using an electronic scooter or strap phone on their dog). No PAS will be earned while Freezing, and users may/may not lose Energy depending on the circumstance.
 
@@ -35,9 +35,9 @@ Mystery Chest has the same 5 quality types as Bicycle. Upon receiving a Mystery 
 
 In Racing Mode, users need to register under the **Racing** Tab at least 24 hours before commencement. There will both be **Weekly Racings** and **Monthly Racings.**
 
-1. **Weekly Racings** - These Racing are held weekly and last for the whole week. Users can choose to participate in the 2.5km, 5km, or 7.5km Racing, but can only take part in one Racing at a time.\
+1. **Weekly Racings** - These Racing are held weekly and last for the whole week. Users can choose to participate in the 5km, 10km, or 15km Racing, but can only take part in one Racing at a time.\
 
-2. **Monthly Racings** - These Racing are held monthly and last for the whole month. Users can choose to participate in the 5km, 10km, or 15km Racing, but can only take part in one Racing at a time.
+2. **Monthly Racings** - These Racing are held monthly and last for the whole month. Users can choose to participate in the 10km, 20km, or 30km Racing, but can only take part in one Racing at a time.
 
 Only users who have successfully registered will receive a notification in their **Quest Log (Under Development)**. Users can utilize the **Set a Goal** function to keep track of their progress. Once the stipulated running distance is completed, users will be notified via the **Quest Log** that the Racing is complete. Users will not be able to repair their Bicycle until the Racing is over.
 
@@ -45,12 +45,16 @@ Only users who have successfully registered will receive a notification in their
 
 Racing participants are ranked using points. Points are calculated based on users’ running speed and Bicycles Attributes.
 
+
+
 ### Rewards (Under Development)
 
 1. The top % on the Leaderboard for the weekly/monthly Racing will receive PAS/PAL prizes and Gold NFT Badge (TBD)
 2. The top % on the Leaderboard for the weekly/monthly Racing will receive PAL prizes and Silver NFT Badge (TBD)
 3. The top % on the Leaderboard for the weekly/monthly Racing will receive PAS prizes and Bronze NFT Badge (TBD)
 4. All Bicycle participants will receive an NFT Badge of Participation.
+
+
 
 ### Background Mode (Under Development)
 

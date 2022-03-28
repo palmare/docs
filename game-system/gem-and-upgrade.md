@@ -11,7 +11,9 @@ Users are able to unlock Gem Sockets once their Bicycle reach a certain level, a
 
 By heading to the **Upgrade** tab under the **Gems** section, users can upgrade their Gems by burning **PAS** and combining 3 Gems of the same level and type to a higher level (i.e three Level-1 Efficiency Gems to one Level-2 Efficiency Gem).**PAL** will also be required to upgrade a Gem from Level 4 onward.**Note: Low level Gems Upgrade has a chance to fail.**
 
-**Warning: There is a certain percentage Gem upgrade which can fail from Level 1 - 5, if the upgrade fails, users will lose their Gems.Awakening Effect: Gem boosts the Base Attribute of the Bicycle. i.e. A Level 2 Efficiency Gem will boost a Level 0 Bicycle with 5 Base Efficiency is 5 (Bicycle Attribute) + 5 x 40% (Gem Awakening Effect to Bicycle Attribute) + 8 (Gem Attribute) = 15.**
+**Warning: There is a certain percentage Gem upgrade which can fail from Level 1 - 5, if the upgrade fails, users will lose their Gems.**\
+****\
+**Awakening Effect: Gem boosts the Base Attribute of the Bicycle.** i.e. A Level 2 Efficiency Gem will boost a Level 0 Bicycle with 5 Base Efficiency is 5 (Bicycle Attribute) + 5 x 40% (Gem Awakening Effect to Bicycle Attribute) + 8 (Gem Attribute) = 15.
 
 ### Socket Types and Quality <a href="#socket-types-and-quality" id="socket-types-and-quality"></a>
 

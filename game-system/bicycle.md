@@ -13,7 +13,7 @@
 
     In **Solo Mode**, Resilience affects the decay rate of Durability. Higher Resilience will result in a slower Durability decay. \
     \
-    The higher the Bicycle's level or quality, the higher the repair cost. Durability is a Sneaker’s “stamina” bar. As a user moves, Durability will decrease. Sneakers receive a “worn-out” penalty at 2 Durability touch points:
+    The higher the Bicycle's level or quality, the higher the repair cost. Durability is a Bicycle's “stamina” bar. As a user moves, Durability will decrease. Bicycles receive a “worn-out” penalty at 2 Durability touch points:
 
     1. At 50/100 Durability, Bicycle Efficiency drops to 90%
     2. At 20/100 Durability, Bicycle Efficiency drops to 10%
@@ -26,12 +26,12 @@ In **Racing Mode**, resilience will allow users to earn more points as their Bic
 
 There are four Bicycle types, each designed to suit a different exercise intensity and/or fitness level:
 
-| **Name**         | **Optimal Speed (km/hr)** | **Base Return at Optimal Speed** |
-| ---------------- | ------------------------- | -------------------------------- |
-| **Casual**       | 1 - 6                     | 4 PAS / 1 Energy spent           |
-| **Recreational** | 4 - 10                    | 5 PAS / 1 Energy spent           |
-| **Warrior**      | 8 - 20                    | 6 PAS / 1 Energy spent           |
-| **Racer**        | 1 - 20                    | 4 - 6.25 PAS / 1 Energy spent    |
+| **Name**    | **Optimal Speed (km/hr)** | **Base Return at Optimal Speed** |
+| ----------- | ------------------------- | -------------------------------- |
+| **Casual**  | 1 - 6                     | 4 PAS / 1 Energy spent           |
+| **Trainer** | 4 - 10                    | 5 PAS / 1 Energy spent           |
+| **Warrior** | 8 - 20                    | 6 PAS / 1 Energy spent           |
+| **Racer**   | 1 - 20                    | 4 - 6.25 PAS / 1 Energy spent    |
 
 Users’ base PAS return is not static, and several factors may cause it to fluctuate:
 
@@ -88,4 +88,4 @@ Additional perks will be unlocked upon reaching certain level milestones:
 
 ### Bicycle **Customization (Under Development)**
 
-At Level 30, users have the option of burning PAS/PAL/NFT to customize their Sneakers, including but not limited to - name changing, adding a quote, adding extra Attribute points etc. More detail about customization will be released soon.
+At Level 30, users have the option of burning PAS/PAL/NFT to customize their Bicycles, including but not limited to - name changing, adding a quote, adding extra Attribute points, etc. More detail about customization will be released soon.
