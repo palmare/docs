@@ -4,7 +4,7 @@
 
 **Supply and Earning**
 
-PAS has an unlimited supply and is earned when a user moves in Solo or Background Mode.
+PAS has an unlimited supply and is earned when a user rides in Solo or Background Mode.
 
 
 
