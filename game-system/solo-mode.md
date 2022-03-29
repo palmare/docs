@@ -39,13 +39,13 @@ In Racing Mode, users need to register under the **Racing** Tab at least 24 hour
 
 2. **Monthly Racings** - These Racing are held monthly and last for the whole month. Users can choose to participate in the 10km, 20km, or 30km Racing, but can only take part in one Racing at a time.
 
-Only users who have successfully registered will receive a notification in their **Quest Log (Under Development)**. Users can utilize the **Set a Goal** function to keep track of their progress. Once the stipulated running distance is completed, users will be notified via the **Quest Log** that the Racing is complete. Users will not be able to repair their Bicycle until the Racing is over.
+Only users who have successfully registered will receive a notification in their **Quest Log (Under Development)**. Users can utilize the **Set a Goal** function to keep track of their progress. Once the stipulated riding distance is completed, users will be notified via the **Quest Log** that the Racing is complete. Users will not be able to repair their Bicycle until the Racing is over.
 
 ![](<../.gitbook/assets/Frame 1 (2).jpg>)
 
 ### &#x20;Leaderboard (Coming Soon)
 
-Racing participants are ranked using points. Points are calculated based on users’ running speed and Bicycles Attributes.
+Racing participants are ranked using points. Points are calculated based on users’ riding speed and Bicycles Attributes.
 
 
 

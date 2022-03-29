@@ -22,6 +22,6 @@ Whenever a renter completes a session in the Solo Mode, the Smart Contract will 
 
 ### Credit System (Coming Soon)
 
-Renters are required to complete a set of “scholar” quizzes to increase their credit rating. Once their rating reaches 2/5, they can start renting. This process ensures they understand all the fundamentals of the app, preventing renters from underutilizing/misusing the app and not yielding any returns (i.e. running on a treadmill, or walking with a runner Bicycle)
+Renters are required to complete a set of “scholar” quizzes to increase their credit rating. Once their rating reaches 2/5, they can start renting. This process ensures they understand all the fundamentals of the app, preventing renters from underutilizing/misusing the app and not yielding any returns.
 
 Credit Rating is capped at 5/5.
