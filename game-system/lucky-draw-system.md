@@ -4,11 +4,11 @@
 
 Users who ride daily with more than 20km can earn 1 free lottery ticket. Users can use this ticket to join the weekly Lucky Draw event.&#x20;
 
-There is four types of reward, including Mystery Chest, Vintage Bicycle & PAS:
+There are four types of reward, including Mystery Chest, Warrior Bicycle & PAS:
 
 | **Rank** | **No of Prize** | **Prize**        |
 | --------- | --------------- | ---------------- |
-| Diamond   | 1               | Vintage Bicycle  |
+| Diamond   | 1               | Warrior Bicycle  |
 | Golden    | 2               | Mystery Chest    |
 | Silver    | 5               | 500 PAS          |
 | Bronze    | 10              | 100% Energy      |
