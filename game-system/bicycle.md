@@ -4,16 +4,19 @@
 
 1. **Efficiency (PAS Earning) – Solo Mode, Racing Mode**\
    ****In **Solo Mode**, Efficiency plays a part in PAS earnings. Having a higher Efficiency Attribute will result in better PAS earnings per Energy spent.\
-   In **Racing Mode**, higher Efficiency leads to a faster accumulation of Leaderboard points.
+   In **Racing Mode**, higher Efficiency leads to a faster accumulation of Leaderboard points.\
+
 2. **Luck (Mystery Chest) – Solo Mode, Bicycle Rental (Coming Soon)**\
-   ****Luck determines the frequency and quality of a Mystery Chest drop. Users are also able to receive Mystery Chest drops while their Bicycle are leased out.
+   ****Luck determines the frequency and quality of a Mystery Chest drop. Users are also able to receive Mystery Chest drops while their Bicycles are leased out.\
+
 3. **Comfort (PAL Earning) – Solo Mode, Racing Mode, Staking/Governance (Under  Development)**\
-   ****The Comfort value has been reworked and currently under development.
+   ****The Comfort value has been reworked and is currently under development.\
+
 4.  **Resilience (Durability/Repair) – Solo Mode, Racing Mode**
 
     In **Solo Mode**, Resilience affects the decay rate of Durability. Higher Resilience will result in a slower Durability decay. \
     \
-    The higher the Bicycle's level or quality, the higher the repair cost. Durability is a Bicycle's “stamina” bar. As a user moves, Durability will decrease. Bicycles receive a “worn-out” penalty at 2 Durability touch points:
+    The higher the Bicycle's level of quality, the higher the repair cost. Durability is a Bicycle's “stamina” bar. As a user moves, Durability will decrease. Bicycles receive a “worn-out” penalty at 2 Durability touchpoints:
 
     1. At 50/100 Durability, Bicycle Efficiency drops to 90%
     2. At 20/100 Durability, Bicycle Efficiency drops to 10%
@@ -36,15 +39,15 @@ There are four Bicycle types, each designed to suit a different exercise intensi
 Users’ base PAS return is not static, and several factors may cause it to fluctuate:
 
 1. Bicycle Efficiency (Low Durability affects Efficiency).
-2. GPS signal - users will earn less if GPS signal is poor.
-3. Mobile Data signal strength and stability – if data signal is choppy, it could also reduce earnings.
+2. GPS signal - users will earn less if the GPS signal is poor.
+3. Mobile Data signal strength and stability – if the data signal is choppy, it could also reduce earnings.
 4. Randomization.
 
 Information on PAL Return rates will be provided in future updates.
 
 ### Bicycle Quality
 
-There are five Bicycle qualities. When a Bicycle is minted, the value of each Attribute will be chosen at random within the min. and max. values according to Bicycle quality. As such, even Bicycle of the same quality may have vastly different Attribute distributions.
+There are five Bicycle qualities. When a Bicycle is minted, the value of each Attribute will be chosen at random within the min. and max. values according to Bicycle quality. As such, even Bicycles of the same quality may have vastly different Attribute distributions.
 
 | Quality       | Min. Attribute | Max. Attribute |
 | ------------- | -------------- | -------------- |
