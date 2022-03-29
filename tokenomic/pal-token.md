@@ -14,4 +14,4 @@ The PAL is minted at the Token Generation Event (TGE), with a total of 280,000,0
 
 The airdrop token will be unlocked until the 10 phases of the public sale end
 
-![](<../.gitbook/assets/Frame 2 (4).png>)
+![](<../.gitbook/assets/Frame 2 (5).png>)
