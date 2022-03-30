@@ -12,7 +12,7 @@ PAS has an unlimited supply and is earned when a user rides in Single or Backgro
 
 The PAS is burned by:
 
-1. Bike-Combination
+1. Bike-Minting
 2. Repair
 3. Leveling up Bicycles
 4. Gems upgrade
