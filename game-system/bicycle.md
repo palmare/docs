@@ -2,19 +2,19 @@
 
 ### Bicycle Attributes
 
-1. **Efficiency (PAS Earning) – Solo Mode, Racing Mode**\
-   ****In **Solo Mode**, Efficiency plays a part in PAS earnings. Having a higher Efficiency Attribute will result in better PAS earnings per Energy spent.\
+1. **Efficiency (PAS Earning) – Single Mode, Racing Mode**\
+   ****In **Single Mode**, Efficiency plays a part in PAS earnings. Having a higher Efficiency Attribute will result in better PAS earnings per Energy spent.\
    In **Racing Mode**, higher Efficiency leads to a faster accumulation of Leaderboard points.\
 
-2. **Luck (Mystery Chest) – Solo Mode, Bicycle Rental (Coming Soon)**\
+2. **Luck (Mystery Chest) – Single Mode, Bicycle Rental (Coming Soon)**\
    ****Luck determines the frequency and quality of a Mystery Chest drop. Users are also able to receive Mystery Chest drops while their Bicycles are leased out.\
 
-3. **Comfort (PAL Earning) – Solo Mode, Racing Mode, Staking/Governance (Under  Development)**\
+3. **Comfort (PAL Earning) – Single Mode, Racing Mode, Staking/Governance (Under  Development)**\
    ****The Comfort value has been reworked and is currently under development.\
 
-4.  **Resilience (Durability/Repair) – Solo Mode, Racing Mode**
+4.  **Resilience (Durability/Repair) – Single Mode, Racing Mode**
 
-    In **Solo Mode**, Resilience affects the decay rate of Durability. Higher Resilience will result in a slower Durability decay. \
+    In **Single Mode**, Resilience affects the decay rate of Durability. Higher Resilience will result in a slower Durability decay. \
     \
     The higher the Bicycle's level of quality, the higher the repair cost. Durability is a Bicycle's “stamina” bar. As a user moves, Durability will decrease. Bicycles receive a “worn-out” penalty at 2 Durability touchpoints:
 

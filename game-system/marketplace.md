@@ -16,7 +16,7 @@ Users looking to rent can head to the in-app Marketplace. They will need to appl
 
 A Rental Agreement can stretch up to 7 days based on a renter’s credit rating. Failure to fulfill the terms stipulated in the Rental Agreement will result in a 1-star deduction from the renter’s credit rating.
 
-Whenever a renter completes a session in the Solo Mode, the Smart Contract will distribute the earnings following the Rental Agreement. The renter and lease earnings are fixed (TBD). The system will reward renters with 0.1 credit per successful Rental Agreement fulfilled.
+Whenever a renter completes a session in the Single Mode, the Smart Contract will distribute the earnings following the Rental Agreement. The renter and lease earnings are fixed (TBD). The system will reward renters with 0.1 credit per successful Rental Agreement fulfilled.
 
 
 

@@ -14,7 +14,7 @@
 
 In-Game Achievement is tied to each user's account. It is not on the Blockchain, but the Badge the user earned through completing Achievement is an NFT and can be earned by join:
 
-* Solo
+* Single
 * Challenge
 * Adventure
 * Duel
