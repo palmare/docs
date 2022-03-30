@@ -1,10 +1,10 @@
-# Gem and Upgrade
+# Upgrade & Sockets
 
 ### Gem Types and Level <a href="#gem-types-and-level" id="gem-types-and-level"></a>
 
-Users are able to unlock Gem Sockets once their Bicycle reachs a certain level, and are able to enhance their Bicycle Attributes by inserting the corresponding Gems into the unlocked Sockets (i.e. only Efficiency Gems can be placed into Efficiency Sockets). There are four types of Gems, with each Gem representing an Attribute:
+Users are able to unlock Gem Sockets once their Bicycle reaches a certain level, and are able to enhance their Bicycle Attributes by inserting the corresponding Gems into the unlocked Sockets (i.e. only Efficiency Gems can be placed into Efficiency Sockets). There are four types of Gems, with each Gem representing an Attribute:
 
-1. Yellow: Efficiency
+1. Green: Efficiency
 2. Blue: Luck
 3. Red: Comfort
 4. Purple: Resilience

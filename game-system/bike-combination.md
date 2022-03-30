@@ -1,16 +1,16 @@
-# Bike Minting
+# Bike Combination
 
-### Bike-Combine
+### Bike-Combination
 
 Bike-Combine Event (BCE) is when users use 2 Bicycles they own as a blueprint to “breed”, producing a higher rank bicycle in the process. For reference, the 2 Bicycles will be called Blueprints. Both Blueprints need to be in the user’s possession (not under lease) and have full durability to begin a BCE.
 
 Users can then select a Bicycle, by heading to the **Combine** tab, choosing the Bicycle to combine with, and pressing **Combine** to proceed. The user will instantly receive a higher rank bicycle that can be used immediately.
 
-After combination, the bicycles are used as blueprints will be burned immediately. The higher the rank a Bicycle has, the more PAS/PAL it will cost. Bike-Combine costs for each Blueprint are calculated separately and added together for the final Minting cost.
+After combination, the bicycles are used as blueprints will be burned immediately. The higher the rank a Bicycle has, the more PAS/PAL it will cost. Bike-Combine costs for each Blueprint are calculated separately and added together for the final Combination cost.
 
 Bike-Combine has a 48-hour cool down for both Blueprints – Bicycles can still be used for movement.
 
-### Bike-Minting Costs
+### Bike-Combination Costs
 
 1. Common – PAS
 2. Uncommon – PAS
@@ -82,6 +82,6 @@ The new Bicycle's Socket type is determined by two Blueprint Bicycle's Socket ty
 | Comfort Socket    | Durability Socket | 5                       | 5                 | 45                   | 45                      |
 | Durability Socket | Durability Socket | 5                       | 5                 | 5                    | 85                      |
 
-### Bike-Minting Variation
+### Bike-Combination Variation
 
 Bicycle Attributes are randomized according to their quality, regardless of their Vintage’s Attributes.
