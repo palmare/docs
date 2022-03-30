@@ -2,7 +2,7 @@
 
 ### Energy System
 
-Energy replenishes 25% every 6 hours until it reaches to the Energy Cap. Users start with one Bicycle and 2 Energy Caps. Users can increase their max. Energy by holding more Bicycles. The calculation is as follows:
+Energy replenishes 25% every 6 hours until it reaches the Energy Cap. Users start with one Bicycle and 2 Energy Caps. Users can increase their max. Energy by holding more Bicycles. The calculation is as follows:
 
 
 
