@@ -8,7 +8,7 @@
 
 ## Game System
 
-* [Solo Mode](game-system/solo-mode.md)
+* [Single Mode](game-system/single-mode.md)
 * [Adventure Mode](game-system/adventure-mode.md)
 * [Bicycle](game-system/bicycle.md)
 * [Marketplace](game-system/marketplace.md)

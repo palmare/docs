@@ -1,8 +1,8 @@
-# Solo Mode
+# Single Mode
 
-### Solo Mode
+### Single Mode
 
-In Solo Mode, users are equipped with NFT bicycles to earn tokens by riding. Energy is needed to earn PAS tokens. Every 1 Energy equals 5 minutes of ride & earn movement and Energy which ONLY starts replenishing after users acquire an NFT Bicycle. To begin, users select a Bicycle of their choice, and press **Start button** ▶
+In Single Mode, users are equipped with NFT bicycles to earn tokens by riding. Energy is needed to earn PAS tokens. Every 1 Energy equals 5 minutes of ride & earn movement and Energy which ONLY starts replenishing after users acquire an NFT Bicycle. To begin, users select a Bicycle of their choice, and press **Start button** ▶
 
 Users should see a status on the top of the screen showing either **Casual** or **Practice**.
 
@@ -22,12 +22,12 @@ Always make sure you have Energy before moving, as there is no token earning if 
 
 4. **Speed of Movement** - To maximize earnings, users should keep within the optimal speed range of their respective Bicycle. Whenever a user falls below or above this range, their earnings will be reduced up to 90% depending on the speed discrepancy from the optimal range.&#x20;
 
-Once Energy is depleted, users stop earning tokens. They can either choose to carry on tracking their movements, or manually exit Solo Mode by briefly holding down the **Stop** button.
+Once Energy is depleted, users stop earning tokens. They can either choose to carry on tracking their movements, or manually exit Single Mode by briefly holding down the **Stop** button.
 
 \
 **Mystery Chest**
 
-Mystery Chest is a loot box that is randomly dropped while you are moving in Solo Mode. It contains Gems (Level 1 – 3). Each user has 4 Mystery Chest slots.
+Mystery Chest is a loot box that is randomly dropped while you are moving in Single Mode. It contains Gems (Level 1 – 3). Each user has 4 Mystery Chest slots.
 
 Mystery Chest has the same 5 quality types as Bicycle. Upon receiving a Mystery Chest, opening the chest requires waiting and the countdown starts automatically. Once the countdown ends, they will be able to open it. Mystery Chest countdown duration increases proportionately to its quality.
 
@@ -39,7 +39,7 @@ In Racing Mode, users need to register under the **Racing** Tab at least 24 hour
 
 2. **Monthly Racings** - These Racing are held monthly and last for the whole month. Users can choose to participate in the 10km, 20km, or 30km Racing, but can only take part in one Racing at a time.
 
-Only users who have successfully registered will receive a notification in their **Quest Log (Under Development)**. Users can utilize the **Set a Goal** function to keep track of their progress. Once the stipulated riding distance is completed, users will be notified via the **Quest Log** that the Racing is complete. Users will not be able to repair their Bicycle until the Racing is over.
+Only users who have successfully registered will receive a notification in their **Quest Log (Under Development)**. Users can utilize the **Set a Goal** function to keep track of their progress. Once the stipulated riding distance is completed, users will be notified via the **Quest Log** that the Racing is complete. Users will not be able to repair their Bicycles until the Racing is over.
 
 ![](<../.gitbook/assets/Frame 1 (2).jpg>)
 
