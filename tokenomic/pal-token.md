@@ -1,10 +1,21 @@
 # PAL Token
 
-**Supply**
+**Total** **Supply**
 
-We are issuing 1,000,000,000 $PAL as a BEP20 token on the Binance Smart Chain. 28% of the $PAL issued will be allocated to the community over 40 phases. The value of each $PAL will increase at each phase of the ICO. The ICO will close on May 24, 2022. The hard cap is $12M USD with the balance of tokens to be released on Pancake Swap. If a phase is not achieved then 10% of issued tokens will be released on Pancake Swap at the last phase price. The remaining tokens will be transferred to Treasury to incentive platform members in the future.
+There is a total of 1,000,000,000 $PAL as a BEP20 token on the Binance Smart Chain.&#x20;
 
-The PAL is minted at the Token Generation Event (TGE), with a total of 280,000,000 minted.&#x20;
+![](<../.gitbook/assets/Frame 2 (9).png>)
+
+|               | Percentage of supply | Total PAL     |
+| ------------- | -------------------- | ------------- |
+| Airdrop       | 10%                  | 100,000,000   |
+| Advisors      | 3%                   | 30,000,000    |
+| Team          | 5%                   | 50,000,000    |
+| Treasury      | 7%                   | 70,000,000    |
+| Ride to Earn  | 47.8%                | 478,000,000   |
+| Liquidity     | 3%                   | 30,000,000    |
+| Public Sale   | 24.2%                | 242,000,000   |
+| Total Supply  | 100%                 | 1,000,000,000 |
 
 
 
@@ -15,5 +26,3 @@ The PAL is minted at the Token Generation Event (TGE), with a total of 280,000,0
 The purchased token will be unlocked 10% at TGE and vested 30% each 3 months.
 
 The airdrop token will be unlocked after the public sale end.
-
-![](<../.gitbook/assets/Frame 2 (9).png>)
