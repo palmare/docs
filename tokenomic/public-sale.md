@@ -1,6 +1,8 @@
 # Public Sale
 
-We are issuing 1 Billion $PAL as a BEP20 token on the Binance Smart Chain. 28% of the $PAL issued will be allocated to the community over 40 phases. The value of each $PAL will increase at each phase of the ICO. The ICO will close on Sep 28, 2022. The hard cap is $20M, with the balance of tokens to be released on Pancake Swap. If a phase is not achieved, then 2% of tokens will be released on Pancake Swap at the last phase price. The remaining tokens that have not been purchased will be :fire: burned to prevent dilution for early investors.
+We are issuing 1 Billion $PAL as a BEP20 token on the Binance Smart Chain. 28% of the $PAL issued will be allocated to the community over 40 phases. The value of each $PAL will increase at each phase of the Public Sale. The sale will close on Sep 28, 2022. The hard cap is $20M, with the balance of tokens to be released on Pancake Swap.&#x20;
+
+If a phase is not achieved, then 3% of tokens will be released on Pancake Swap at the last phase price. The remaining tokens that have not been purchased will be :fire: burned to prevent dilution for early investors.
 
 | Phase | Price per token | Total Raised | Total Token Supplied | Token Remaining |
 | ----- | --------------- | ------------ | -------------------- | --------------- |
