@@ -23,6 +23,6 @@ There is a total of 1,000,000,000 $PAL as a BEP20 token on the Binance Smart Cha
 
 47.8% of total PAL will be distributed to users through Ride & Earn and Governance participation. To ensure the longevity of the Palmare project, the total release of PAL will halve every two years.
 
-The purchased token will be unlocked 10% at TGE and vested 30% each 3 months.
+The purchased token will be unlocked 10% at TGE and vested 10% each month for 9 months.
 
 The airdrop token will be unlocked after the public sale end.
