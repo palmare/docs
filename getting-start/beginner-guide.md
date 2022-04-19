@@ -17,7 +17,7 @@ The app will generate a 12-word secret phrase. This will be used to recover your
 
 Transfer BNB to in-app wallet to buy NFT Bicycle in the Marketplace and always keep some BNB as gas in your Wallet account.
 
-### **Purchase a Sneaker**
+### **Purchase a Bicycle**
 
 Head over to the in-app Marketplace and pick out a **Bicycle**! You can use the Filter tool to look for a Bicycle type of your preference. Ensure you have enough BNB for the purchase.
 
