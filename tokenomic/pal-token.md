@@ -12,6 +12,6 @@ The PAL is minted at the Token Generation Event (TGE), with a total of 280,000,0
 
 44% of total PAL will be distributed to users through ride & earn and Governance participation. To ensure the longevity of the Palmare project, the total release of PAL will halve every two years.
 
-The airdrop token will be unlocked after the 10 phases of the public sale end
+The airdrop token will be unlocked after the 10 phases of the public sale end.
 
-![](<../.gitbook/assets/Frame 2 (6).png>)
+![](<../.gitbook/assets/Frame 2 (8).png>)

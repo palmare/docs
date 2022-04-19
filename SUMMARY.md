@@ -22,4 +22,5 @@
 
 * [PAS Token](tokenomic/pas-token.md)
 * [PAL Token](tokenomic/pal-token.md)
+* [Public Sale](tokenomic/public-sale.md)
 * [Governance & Voting](tokenomic/governance-and-voting.md)
