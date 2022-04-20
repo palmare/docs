@@ -22,5 +22,5 @@
 
 * [PAS Token](tokenomic/pas-token.md)
 * [PAL Token](tokenomic/pal-token.md)
-* [Public Sale](tokenomic/public-sale.md)
+* [IPO (Initial Phase Offering)](tokenomic/ipo-initial-phase-offering.md)
 * [Governance & Voting](tokenomic/governance-and-voting.md)

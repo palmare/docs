@@ -1,6 +1,6 @@
 # PAL Token
 
-**Total** **Supply**
+### **Total** **Supply**
 
 There is a total of 1,000,000,000 $PAL as a BEP20 token on the Binance Smart Chain.&#x20;
 
@@ -19,7 +19,7 @@ There is a total of 1,000,000,000 $PAL as a BEP20 token on the Binance Smart Cha
 
 
 
-**PAL Vesting Mechanics**
+### **PAL Vesting Mechanics**
 
 47.8% of total PAL will be distributed to users through Ride & Earn and Governance participation. To ensure the longevity of the Palmare project, the total release of PAL will halve every two years.
 
