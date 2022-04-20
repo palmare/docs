@@ -17,7 +17,7 @@ If the deadline is met, 3% of tokens will be released on Pancake Swap at the las
 | **Gold**         | 12 months + 2 months cliff | 15%         |
 | **Silver**       | No vesting                 | 100%        |
 
-**Team** 36 months vesting, 10% paid after TGE 1 months.&#x20;
+**Team** 36 months vesting, 10% paid 1 month after TGE
 
 **Advisor** 12 or 24 months vesting.
 
