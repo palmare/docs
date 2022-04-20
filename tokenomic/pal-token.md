@@ -4,7 +4,7 @@
 
 There is a total of 1,000,000,000 $PAL as a BEP20 token on the Binance Smart Chain.&#x20;
 
-![](<../.gitbook/assets/Frame 2 (9).png>)
+![](<../.gitbook/assets/Frame 2 (10).png>)
 
 |                   | Percentage of supply | Total PAL         |
 | ----------------- | -------------------- | ----------------- |
@@ -14,15 +14,15 @@ There is a total of 1,000,000,000 $PAL as a BEP20 token on the Binance Smart Cha
 | **Treasury**      | 7%                   | 70,000,000        |
 | **Ride to Earn**  | 47.8%                | 478,000,000       |
 | **Liquidity**     | 3%                   | 30,000,000        |
-| **Public Sale**   | 24.2%                | 242,000,000       |
+| **IPO**           | 24.2%                | 242,000,000       |
 | **Total Supply**  | **100%**             | **1,000,000,000** |
 
 
 
 ### **PAL Vesting Mechanics**
 
-47.8% of total PAL will be distributed to users through Ride & Earn and Governance participation. To ensure the longevity of the Palmare project, the total release of PAL will halve every two years.
+47.8% of total PAL will be distributed to users through Ride to Earn and Governance participation. To ensure the longevity of the Palmare project, the total release of PAL will halve every two years.
 
-The purchased token will be unlocked 10% at TGE and vested 10% each month for 9 months.
+The purchased token will be unlocked 15% at TGE and vested base on the Tier of participants.
 
-The airdrop token will be unlocked after the public sale end.
+The airdrop token will be unlocked after the IPO end.
