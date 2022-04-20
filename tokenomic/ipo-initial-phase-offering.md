@@ -1,6 +1,6 @@
 # IPO (Initial Phase Offering)
 
-**By Cyclist, for Cyclist.** Palmare is a community-first Web3 project, so we decided no VC power! All 24.2% of the $PAL issued will be allocated to the community over 40 phases. The value of each $PAL will increase at each phase of the IPO. The sale will close on Sep 28, 2022. The hard cap is $20M, with the balance of tokens released on Pancake Swap.&#x20;
+**By Cyclist, for Cyclist.** Palmare is a community-first Web3 project, so we decided no VC power! All 24.2% of the $PAL issued will be allocated to the community over 40 phases. The value of each $PAL will increase at each phase of the IPO. The sale will close on Oct 28, 2022. The hard cap is $20M, with the balance of tokens released on Pancake Swap.&#x20;
 
 If the deadline is met, 3% of tokens will be released on Pancake Swap at the last phase price. The remaining tokens that have not been purchased will be :fire:**Burned** to prevent dilution for early investors.
 
@@ -8,22 +8,22 @@ If the deadline is met, 3% of tokens will be released on Pancake Swap at the las
 
 ### **Token Release Schedule**
 
-**Initial Phase Offering** Vesting in 0 - 12 months. Silver Tier is unlocked 50% at TGE and vested 6 months cliff; Gold Tier is unlocked 15% at TGE and vested in 12 months and 1-month cliff; Platinum Tier is unlocked 12% at TGE and vested in 12 months and 2-month cliff; Diamond Hand Tier level is unlocked 10% at TGE and vested in 12 months and 3 months cliff.
+**Initial Phase Offering** Vesting in 3 - 18 months. After each ten rounds end, users can swap $PAL for $BUSD at the latest price with specific liquidity.  For example, after round 10th end, users can access a 220,000BUSD pool and swap $PAL at a $0.0403 price.
 
-| Tier             | Vesting                    | Unlock at TGE |
-| ---------------- | -------------------------- | ------------- |
-| **Diamond Hand** | 12 months + 3 months cliff | 10%           |
-| **Platinum**     | 12 months + 2 months cliff | 12%           |
-| **Gold**         | 12 months + 1 months cliff | 15%           |
-| **Silver**       | 6 months cliff             | 50%           |
+| Tier             | Vesting           | Token Unlock Schedule      |
+| ---------------- | ----------------- | -------------------------- |
+| **Diamond Hand** | 18 months linear  | 5%, TGE on 11st round      |
+| **Platinum**     | 12 months linear  | 7%, TGE on 21st round      |
+| **Gold**         | 9 months linear   | 9%, TGE after a round end  |
+| **Silver**       | 3 months linear   | 10%, TGE after a round end |
 
-**Team** 36 months vesting, 10% paid 1 month after TGE
+**Team** 36 months vesting, 5% unlock when token is listed on Pancakeswap.
 
 **Advisor** 12 or 24 months vesting.
 
 ### &#x20;**Referal to Earn**&#x20;
 
-Refer any participant to join the IPO, and then you can earn up 10% commission on their deposits! Commission will be airdrop to your wallet after phase 10 ends.&#x20;
+Refer any participant to join the IPO, and then you can earn up to 10% commission on their deposits! Commission will be airdrop to your wallet after phase 10 ends.&#x20;
 
 
 
