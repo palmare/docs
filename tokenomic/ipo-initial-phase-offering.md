@@ -15,9 +15,9 @@ If the deadline is met, 3% of tokens will be released on Pancake Swap at the las
 | **Diamond Hand** | 24 months + 6 months cliff | 15%         |
 | **Platinum**     | 24 months + 4 months cliff | 15%         |
 | **Gold**         | 12 months + 2 months cliff | 15%         |
-| Silv**er**       | No vesting                 | 100%        |
+| **Silver**       | No vesting                 | 100%        |
 
-**Team** 36 months vesting, 25% paid after 12 months.&#x20;
+**Team** 36 months vesting, 10% paid after TGE 1 months.&#x20;
 
 **Advisor** 12 or 24 months vesting.
 
