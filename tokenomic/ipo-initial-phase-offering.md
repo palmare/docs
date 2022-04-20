@@ -8,14 +8,14 @@ If the deadline is met, 3% of tokens will be released on Pancake Swap at the las
 
 ### **Token Release Schedule**
 
-**Initial Phase Offering** Vesting in 0 - 12 months. Silver Tier is paid 100% at TGE; Gold Tier is paid 15% at TGE and vested in 12 months and 1-month cliff; Platinum Tier is paid 15% at TGE and vested in 12 months and 2-month cliff; Diamond Hand Tier level is paid 15% at TGE and vested in 12 months and 3 months cliff.
+**Initial Phase Offering** Vesting in 0 - 12 months. Silver Tier is paid 50% at TGE and vested 6 months cliff; Gold Tier is paid 15% at TGE and vested in 12 months and 1-month cliff; Platinum Tier is paid 12% at TGE and vested in 12 months and 2-month cliff; Diamond Hand Tier level is paid 10% at TGE and vested in 12 months and 3 months cliff.
 
 | Tier             | Vesting                    | Paid at TGE |
 | ---------------- | -------------------------- | ----------- |
 | **Diamond Hand** | 12 months + 3 months cliff | 10%         |
 | **Platinum**     | 12 months + 2 months cliff | 12%         |
 | **Gold**         | 12 months + 1 months cliff | 15%         |
-| **Silver**       | 6 month cliff              | 50%         |
+| **Silver**       | 6 months cliff             | 50%         |
 
 **Team** 36 months vesting, 10% paid 1 month after TGE
 
