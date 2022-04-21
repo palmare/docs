@@ -8,14 +8,14 @@ If the deadline is met, 3% of tokens will be released on Pancake Swap at the las
 
 ### **Token Release Schedule**
 
-**Initial Phase Offering** Vesting in 3 - 18 months. After each ten rounds end, users can swap $PAL for $BUSD at the latest price with specific liquidity.  For example, after round 10th end, users can access a 220,000BUSD pool and swap $PAL at a $0.0403 price.
+**Initial Phase Offering** Purchased token is vested in 3 - 18 months. After each ten rounds end, participants can swap $PAL for $BUSD at the latest price with specific liquidity. For example, after round 10th end, users can access a 220,000 BUSD pool and swap $PAL at a $0.0403 price.
 
-| Tier             | Vesting           | Token Unlock Schedule      |
-| ---------------- | ----------------- | -------------------------- |
-| **Diamond Hand** | 18 months linear  | 5%, TGE on 11st round      |
-| **Platinum**     | 12 months linear  | 7%, TGE on 21st round      |
-| **Gold**         | 9 months linear   | 9%, TGE after a round end  |
-| **Silver**       | 3 months linear   | 10%, TGE after a round end |
+| Tier             | Vesting           | Token Unlock Schedule           |
+| ---------------- | ----------------- | ------------------------------- |
+| **Diamond Hand** | 18 months linear  | 5%, TGE start on 11st round     |
+| **Platinum**     | 12 months linear  | 7%, TGE start on 21st round     |
+| **Gold**         | 9 months linear   | 9%, TGE start after each round  |
+| **Silver**       | 3 months linear   | 10%, TGE start after each round |
 
 **Team** 36 months vesting, 5% unlock when token is listed on Pancakeswap.
 
