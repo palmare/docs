@@ -16,7 +16,7 @@ If the deadline is met, 3% of tokens will be released on Pancake Swap at the las
 | **Platinum**     | 12 months linear  | 7%, TGE start on next 2 rounds   |
 | **Gold**         | 9 months linear   | 9%, TGE start after each round   |
 | **Silver**       | 3 months linear   | 10%, TGE start after each round  |
-| Airdrop          | 3 months          | TGE 5 days after token launching |
+| **Airdrop**      | 3 months linear   | TGE 5 days after token launching |
 
 **Team** 36 months vesting, 5% unlock when token is listed on Pancakeswap.
 
