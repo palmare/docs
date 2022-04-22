@@ -6,4 +6,4 @@ We create an AR Geo-game mode that cyclists can join in a mission every day hunt
 
 When a box is opened the user is prompted with a trivia question about your geographical history. If answered correctly within the given time limit, the user is rewarded with Scholar Point that can redeem for a real-life prize.&#x20;
 
-![](<../.gitbook/assets/Frame 1 (1).jpg>)
+![](<../.gitbook/assets/Frame 6 (1).png>)
