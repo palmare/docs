@@ -15,7 +15,7 @@
 * [Upgrade & Sockets](game-system/upgrade-and-sockets.md)
 * [Bike Combination](game-system/bike-combination.md)
 * [Earning System](game-system/earning-system.md)
-* [Quest & Achievement](game-system/quest-and-achievement.md)
+* [Challenge Center](game-system/challenge-center.md)
 * [Lucky Draw System](game-system/lucky-draw-system.md)
 
 ## Tokenomic
