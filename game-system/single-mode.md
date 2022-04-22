@@ -24,8 +24,7 @@ Always make sure you have Energy before moving, as there is no token earning if 
 
 Once Energy is depleted, users stop earning tokens. They can either choose to carry on tracking their movements, or manually exit Single Mode by briefly holding down the **Stop** button.
 
-\
-**Mystery Chest**
+### &#x20;**Mystery Chest**
 
 Mystery Chest is a loot box that is randomly dropped while you are moving in Single Mode. It contains Gems (Level 1 – 3). Each user has 4 Mystery Chest slots.
 
