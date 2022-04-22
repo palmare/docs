@@ -6,6 +6,10 @@ The Marketplace is where users can rent/lease or sell/buy their NFT Bicycles, Ba
 
 User can buy and sell NFT Bicycles, Chest and Gems on the in-app Marketplace.&#x20;
 
+
+
+![](<../.gitbook/assets/Desktop - 8.png>)
+
 ### Rental System (Coming Soon)
 
 The main barrier we face to onboarding new users into a Crypto-related game is the complexity of the onboarding process. This starts with creating an Exchange Account, converting fiat to Cryptocurrency, and navigating Web 3.0 with a Decentralized Wallet. Palmare aims to breach this barrier by introducing a Rental System.
