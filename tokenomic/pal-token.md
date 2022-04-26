@@ -21,7 +21,7 @@ There is a total of 1,000,000,000 $PAL as a BEP20 token on the Binance Smart Cha
 
 ### **PAL Vesting Mechanics**
 
-47.8% of total PAL will be distributed to users through Ride to Earn and Governance participation. To ensure the longevity of the Palmare project, the total release of PAL will halve every two years.
+47.8% of total PAL will be distributed to users through Ride to Earn and Staking reward for IPO participation. To ensure the longevity of the Palmare project, the total release of PAL will halve every two years.
 
 The purchased token will be unlocked and vested base on the Tier of participants.
 
