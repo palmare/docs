@@ -1,4 +1,4 @@
-# Privacy
+# Privacy Policy
 
 **Palmare (PAL) Limited Privacy Policy**
 

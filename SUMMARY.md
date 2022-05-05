@@ -28,4 +28,4 @@
 ## Other
 
 * [Term & Condition](other/term-and-condition.md)
-* [Privacy](other/privacy.md)
+* [Privacy Policy](other/privacy-policy.md)
