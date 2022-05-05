@@ -24,3 +24,8 @@
 * [PAL Token](tokenomic/pal-token.md)
 * [IPO (Initial Phase Offering)](tokenomic/ipo-initial-phase-offering.md)
 * [Governance & Voting](tokenomic/governance-and-voting.md)
+
+## Other
+
+* [Term & Condition](other/term-and-condition.md)
+* [Privacy](other/privacy.md)
