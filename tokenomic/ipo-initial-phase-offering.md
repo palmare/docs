@@ -26,10 +26,10 @@ If the deadline is met, 3% of tokens will be released on Pancake Swap at the las
 
 Refer any participant to join the IPO, and then you can earn up to 6% commission on their deposits! Commission will be airdrop to your wallet in BUSD after phase 10 ends.&#x20;
 
-| Level | Commission | Token |
-| ----- | ---------- | ----- |
-| 1     | 6%         | BUSD  |
-| 2     | 2%         | BUSD  |
+| Level | Commission from each phase | Token |
+| ----- | -------------------------- | ----- |
+| 1     | 6%                         | BUSD  |
+| 2     | 2%                         | BUSD  |
 
 
 
