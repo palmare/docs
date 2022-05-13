@@ -18,9 +18,9 @@ If the deadline is met, 3% of tokens will be released on Pancake Swap at the las
 | **Silver**       | 3 months linear   | 10%, TGE start after each round  |
 | **Airdrop**      | 3 months linear   | TGE 5 days after token launching |
 
-**Team** 36 months vesting, 5% unlock when token is listed on Pancakeswap.
+**Team** 5% unlock on token launch event, then 6-month cliff period followed by 36 months vesting.
 
-**Advisor** 12 or 24 months vesting.
+**Advisor** 3% unlock on token launch event, then 4-month cliff period followed by 30 months vesting.
 
 ### &#x20;**Referal to Earn**&#x20;
 
