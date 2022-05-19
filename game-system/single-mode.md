@@ -28,7 +28,7 @@ Mystery Chest has the same 5 quality types as Bicycle. Upon receiving a Mystery 
 
 ![](<../.gitbook/assets/Desktop - 7.png>)
 
-### Duel Mode (Under Development)
+### Duel Mode
 
 In Racing Mode, users need to register under the **Racing** Tab at least 24 hours before commencement. There will both be **Weekly Racings** and **Monthly Racings.**
 
@@ -36,7 +36,7 @@ In Racing Mode, users need to register under the **Racing** Tab at least 24 hour
 
 2. **Monthly Racings** - These Racing are held monthly and last for the whole month. Users can choose to participate in the 30km, 40km, or 50km Racing, but can only take part in one Racing at a time.
 
-Only users who have successfully registered will receive a notification in their **Quest Log (Under Development)**. Users can utilize the **Set a Goal** function to keep track of their progress. Once the stipulated riding distance is completed, users will be notified via the **Quest Log** that the Racing is complete. Users will not be able to repair their Bicycles until the Racing is over.
+Only users who have successfully registered will receive a notification in their **Quest Log**. Users can utilize the **Set a Goal** function to keep track of their progress. Once the stipulated riding distance is completed, users will be notified via the **Quest Log** that the Racing is complete. Users will not be able to repair their Bicycles until the Racing is over.
 
 
 
