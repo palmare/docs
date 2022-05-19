@@ -22,24 +22,6 @@ The first two Shoe-Combine costs the same. Bike-Combine has a chance to drop one
 
 Mystery Chest Quality is determined by the Blueprint Bicycle's Quality:
 
-| **Blueprint 1 Quality** | **Blueprint 2 Quality** | **Common Chest %** | **Uncommon Chest %** | **Rare Chest %** | **Epic Shoebox %** | **Legendary Shoebox %** |
-| ----------------------- | ----------------------- | ------------------ | -------------------- | ---------------- | ------------------ | ----------------------- |
-| Common                  | Common                  | 100                | 0                    | 0                | 0                  | 0                       |
-| Common                  | Uncommon                | 50                 | 49                   | 1                | 0                  | 0                       |
-| Common                  | Rare                    | 50                 | 0                    | 49               | 1                  | 0                       |
-| Common                  | Epic                    | 50                 | 0                    | 0                | 49                 | 1                       |
-| Common                  | Legendary               | 50                 | 0                    | 0                | 0                  | 50                      |
-| Uncommon                | Uncommon                | 0                  | 98                   | 2                | 0                  | 0                       |
-| Uncommon                | Rare                    | 0                  | 49                   | 50               | 1                  | 0                       |
-| Uncommon                | Epic                    | 0                  | 49                   | 1                | 49                 | 1                       |
-| Uncommon                | Legendary               | 0                  | 49                   | 1                | 0                  | 50                      |
-| Rare                    | Rare                    | 0                  | 0                    | 98               | 2                  | 0                       |
-| Rare                    | Epic                    | 0                  | 0                    | 49               | 50                 | 1                       |
-| Rare                    | Legendary               | 0                  | 0                    | 49               | 1                  | 50                      |
-| Epic                    | Epic                    | 0                  | 0                    | 0                | 98                 | 2                       |
-| Epic                    | Legendary               | 0                  | 0                    | 0                | 49                 | 51                      |
-| Legendary               | Legendary               | 0                  | 0                    | 0                | 0                  | 100                     |
-
 Users will get a new Bicycle once they open the Mystery Chest, with the Bicycle Quality determined by the Mystery Chest Quality:
 
 | **Chest Quality** | **Common Bicycle %** | **Uncommon Bicycle %** | **Rare Bicycle %** | **Epic Bicycle %** | **Legendary Bicycle %** |
@@ -50,7 +32,7 @@ Users will get a new Bicycle once they open the Mystery Chest, with the Bicycle 
 | **Epic**          | 0                    | 0                      | 30                 | 68                 | 2                       |
 | **Legendary**     | 0                    | 0                      | 0                  | 35                 | 65                      |
 
-**Note: Epic Bicycle drop is disabled at the moment even there is 2% drop rate from Opening Rare Mystery Chest**
+****
 
 The new Bicycle type is determined by the two Vintage Bicycle types:
 
@@ -68,19 +50,6 @@ The new Bicycle type is determined by the two Vintage Bicycle types:
 | Racer                | Racer                | 25           | 25            | 25            | 25          |
 
 The new Bicycle's Socket type is determined by two Blueprint Bicycle's Socket types:
-
-| **Vintage 1**     | **Vintage 2**     | **Efficiency Socket %** | **Luck Socket %** | **Comfort Socket %** | **Durability Socket %** |
-| ----------------- | ----------------- | ----------------------- | ----------------- | -------------------- | ----------------------- |
-| Efficiency Socket | Efficiency Socket | 85                      | 5                 | 5                    | 5                       |
-| Efficiency Socket | Luck Socket       | 45                      | 45                | 5                    | 5                       |
-| Efficiency Socket | Comfort Socket    | 45                      | 5                 | 45                   | 5                       |
-| Efficiency Socket | Durability Socket | 45                      | 5                 | 5                    | 45                      |
-| Luck Socket       | Luck Socket       | 5                       | 85                | 5                    | 5                       |
-| Luck Socket       | Comfort Socket    | 5                       | 45                | 45                   | 5                       |
-| Luck Socket       | Durability Socket | 5                       | 45                | 5                    | 45                      |
-| Comfort Socket    | Comfort Socket    | 5                       | 5                 | 85                   | 5                       |
-| Comfort Socket    | Durability Socket | 5                       | 5                 | 45                   | 45                      |
-| Durability Socket | Durability Socket | 5                       | 5                 | 5                    | 85                      |
 
 ### Bike-Combination Variation
 
