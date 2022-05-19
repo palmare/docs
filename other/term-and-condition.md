@@ -6,7 +6,7 @@
 
 Welcome to palmate.io (the “Site”) owned and operated by Palmare (PAL) Limited, a British Virgin Islands company (collectively, “Palmare,” “we,” “our”, or “us”). Palmare provides an online service to play an NFT game (the “Service”). The terms “you,” “your,” and “yours” refer to anyone accessing, viewing, browsing, visiting or using the Site and/ or the Service.
 
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you“) and Palmare (PAL) Limited (“we“, “us“, or “our“) concerning your access to and use of the [**www.palmare.io**](https://www.thedustland.com) website and the Palmare cyclist app as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site“ and the “App“).
+These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you“) and Palmare (PAL) Limited (“we“, “us“, or “our“) concerning your access to and use of the [**www.palmare.io**](https://www.thedustland.com/) website and the Palmare cyclist app as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site“ and the “App“).
 
 WE ARE ONLY WILLING TO MAKE THE APP, THE SMART CONTRACTS, AND THE SITE AVAILABLE TO YOU IF YOU ACCEPT ALL OF THESE TERMS. BY USING THE APP, THE SMART CONTRACTS, THE SITE, OR ANY OTHER OFFICIAL Palmare PRODUCT, YOU ARE CONFIRMING THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY ALL OF THESE TERMS OF USE. IF YOU DO NOT AGREE AND/OR ACCEPT ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE, THE APP AND THE SMART CONTRACTS AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -28,7 +28,7 @@ Provided that you are eligible to use the Site, the App and the Smart Contracts,
 Provided that you own, or get permission from someone who owns an ERC721 and/or ERC1155 Palmare Token, you are granted a limited license to create fan-art which can be used commercially given that you follow the terms set herein:
 
 * 1\. Fan artwork must not use our official assets (including the Palmare logo, PAL logo, etc), but creating derivate non-commercial assets related to Palmare NFTs as inspiration is acceptable.
-* 2\. The artwork must clearly state “Palmare Fan Art”, link to [**https://www.palmare.io/**](https://www.thedustland.com), and link directly to the original asset that is being used for inspiration.
+* 2\. The artwork must clearly state “Palmare Fan Art”, link to [**https://www.palmare.io/**](https://www.thedustland.com/), and link directly to the original asset that is being used for inspiration.
 * 3\. A Palmare NFT can be used to generate a maximum of $10,000 in revenue before an official license agreement has to be signed. The revenue can come from either fan art (tokenized or physical) or merchandise (t-shirts, mugs, hoodies, etc).
 
 Creating original fan art without monetizing it is acceptable without any license or ownership.

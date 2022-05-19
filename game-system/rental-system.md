@@ -1,4 +1,6 @@
-# Renting System
+# Rental System
+
+![](<../.gitbook/assets/Desktop - 8.png>)
 
 In order for the bicycle rental system to operate smoothly, it is necessary to have NFT renters and NFT stakers.
 

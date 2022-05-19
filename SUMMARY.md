@@ -14,7 +14,7 @@
 * [Marketplace](game-system/marketplace.md)
 * [Upgrade & Sockets](game-system/upgrade-and-sockets.md)
 * [Bike Combination](game-system/bike-combination.md)
-* [Renting System](game-system/renting-system.md)
+* [Rental System](game-system/rental-system.md)
 * [Earning System](game-system/earning-system.md)
 * [Challenge Center](game-system/challenge-center.md)
 * [Lucky Draw System](game-system/lucky-draw-system.md)
