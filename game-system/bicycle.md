@@ -16,14 +16,14 @@
 
     In **Single Mode**, Endurance affects the decay rate of Durability. Higher Endurance will result in a slower Durability decay. \
     \
-    The higher the Bicycle's level of quality, the higher the repair cost. Durability is a Bicycle's “stamina” bar. As a user moves, Durability will decrease. Bicycles receive a “worn-out” penalty at 2 Durability touchpoints:
+    The higher the Bicycle's level of quality, the higher the repair cost. Endurance is a Bicycle's “stamina” bar. As a user moves, Endurance will decrease. Bicycles receive a “worn-out” penalty at 2 Durability touchpoints:
 
-    1. At 50/100 Durability, Bicycle Efficiency drops to 90%
-    2. At 20/100 Durability, Bicycle Efficiency drops to 10%
+    1. At 50/100 Endurance, Bicycle Efficiency drops to 90%
+    2. At 20/100 Endurance, Bicycle Efficiency drops to 10%
 
 In **Racing Mode**, endurance will allow users to earn more points as their Bicycle will stay above the “worn-out” penalty mark longer.
 
-**Users will be able to burn PAS/PAL to reset the Bicycle's Attribute points. The more frequent the reset, the more expensive it will be, with the cost capping at a certain level (Under Development).**
+**Users will be able to burn PAS/PAL to reset the Bicycle's Attribute points. The more frequent the reset, the more expensive it will be, with the cost capping at a certain level.**
 
 ### Bicycle Types
 
