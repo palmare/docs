@@ -51,11 +51,11 @@ There are five Bicycle qualities. When a Bicycle is minted, the value of each At
 
 | Quality       | Min. Attribute | Max. Attribute |
 | ------------- | -------------- | -------------- |
-| **Common**    | 1              | 10             |
-| **Uncommon**  | 8              | 18             |
+| **Common**    | 1              | 3              |
+| **Uncommon**  | 6              | 14             |
 | **Rare**      | 15             | 35             |
 | **Epic**      | 28             | 63             |
-| **Legendary** | 50             | 112            |
+| **Legendary** | 45             | 95             |
 
 ### Bicycle Level
 
@@ -67,27 +67,11 @@ Upon level-up, users will attain 4 - 12 additional Attribute points to assign ac
 
 | Quality       | Attribute Point/Level up |
 | ------------- | ------------------------ |
-| **Common**    | 4                        |
+| **Common**    | 3                        |
 | **Uncommon**  | 6                        |
-| **Rare**      | 8                        |
-| **Epic**      | 10                       |
-| **Legendary** | 12                       |
-
-Additional perks will be unlocked upon reaching certain level milestones:
-
-| **Milestone** | **Triggered Event**            |
-| ------------- | ------------------------------ |
-| **Level 5**   | Unlocks Socket 1               |
-| **Level 5**   | Unlocks Bike-minting           |
-| **Level 10**  | Unlocks Bicycle Lease function |
-| **Level 10**  | Unlocks Socket 2               |
-| **Level 15**  | Unlocks Socket 3               |
-| **Level 20**  | Unlocks Socket 4               |
-| **Level 30**  | Unlocks PAL earning            |
-
-**At max level, user needs to choose between earning PAS or PAL. Switching between PAS/PAL earning is allowed, but will be subject to a cooldown duration.**&#x20;
-
-&#x20;****&#x20;
+| **Rare**      | 9                        |
+| **Epic**      | 12                       |
+| **Legendary** | 15                       |
 
 ### Bicycle **Customization (Under Development)**
 
