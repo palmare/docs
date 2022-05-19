@@ -31,10 +31,10 @@ There are four Bicycle types, each designed to suit a different exercise intensi
 
 | **Name**    | **Optimal Speed (km/hr)** | **Base Return at Optimal Speed** |
 | ----------- | ------------------------- | -------------------------------- |
-| **Casual**  | 1 - 6                     | 4 PAS / 1 Energy spent           |
-| **Trainer** | 4 - 10                    | 5 PAS / 1 Energy spent           |
-| **Warrior** | 8 - 20                    | 6 PAS / 1 Energy spent           |
-| **Racer**   | 1 - 20                    | 4 - 6.25 PAS / 1 Energy spent    |
+| **Casual**  | 30-35                     | 10  PAS / 1 Energy spent         |
+| **Trainer** | 36 - 40                   | 15 PAS / 1 Energy spent          |
+| **Warrior** | 41 - 80                   | 20 PAS / 1 Energy spent          |
+| **Racer**   | 81 - 120                  | 25 PAS / 1 Energy spent          |
 
 Users’ base PAS return is not static, and several factors may cause it to fluctuate:
 
