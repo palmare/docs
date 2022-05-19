@@ -1,6 +1,6 @@
 # Overview
 
-The introduction of the Stepn app ushered in the Move to Earn movement that has redefined the fitness industry. Based on this success, we decided to make the Palmare app based on researching and optimizing the earning system and bringing a new experience to the cyclist users.\
+The introduction of the Stepn app ushered in the Move to Earn movement that has redefined the fitness industry. Based on this success, we decided to make the Palmare app based on researching and optimizing the earning system from Stepn and bringing a new experience to the cyclist users.\
 \
 **Palmare is a Community-first Web3 Sport App with inbuilt Game-Fi and Ride to Earn element**
 
