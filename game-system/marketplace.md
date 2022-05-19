@@ -22,10 +22,3 @@ A Rental Agreement can stretch up to 7 days based on a renter’s credit rating.
 
 Whenever a renter completes a session in the Single Mode, the Smart Contract will distribute the earnings following the Rental Agreement. The renter and lease earnings are fixed (TBD). The system will reward renters with 0.1 credit per successful Rental Agreement fulfilled.
 
-
-
-### Credit System (Coming Soon)
-
-Renters are required to complete a set of “scholar” quizzes to increase their credit rating. Once their rating reaches 2/5, they can start renting. This process ensures they understand all the fundamentals of the app, preventing renters from underutilizing/misusing the app and not yielding any returns.
-
-Credit Rating is capped at 5/5.
