@@ -2,8 +2,6 @@
 
 ![](<../.gitbook/assets/Desktop - 6 (2).png>)
 
-###
-
 ### **Leaderboards**
 
 Leaderboards let cyclists participate in new competitions within your game and challenge other players to beat their score. Cyclists see how they rank among global players, as well as their friends. You can even create a friends-only leaderboard in your custom ride. Classic leaderboards are ongoing and maintain a player’s score forever. Use these to showcase scoring for overall or lifetime events, such as all-time number of matches won or the shortest time taken to complete a level.
