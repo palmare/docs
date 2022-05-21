@@ -1,6 +1,6 @@
 # Overview
 
-The introduction of the Move to Earn app has redefined the fitness industry. Based on this success, we decided to make the Palmare app based on researching and optimizing the Earning system and bringing a new experience to the sports community. **Palmare is a Community-owned Web3 Sports App with an inbuilt Social-Fi and Burn to Earn element**.\
+The introduction of the Move to Earn app has redefined the fitness industry. Based on this success, we decided to make the Palmare app based on researching and optimizing the Earning system and bringing a new experience to the sports community. **Palmare is a Community-owned Web3 Sports App with an inbuilt SocialFi and SportFi element**.\
 
 
 It empowers the sports community to own the links between themselves and their communities, forming a fully composable, user-owned social graph. The built-in protocol ensures immutable content owned by users and social relationships. The problem of Web2 social is all read from their unique, centralized database. There is no portability. Your profile, followers, and content are locked to a specific network and owned by the network operator. \

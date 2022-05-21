@@ -11,7 +11,7 @@
 * [Training Mode](game-system/training-mode.md)
 * [SocialFi Profile](game-system/social-profile.md)
 * [SocialFi Network](game-system/socialfi-network.md)
-* [Bicycle](game-system/bicycle.md)
+* [Traning NFT](game-system/traning-nft.md)
 * [Marketplace](game-system/marketplace.md)
 * [Rental System](game-system/rental-system.md)
 * [Earning System](game-system/earning-system.md)

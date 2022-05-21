@@ -6,4 +6,22 @@ The Profile NFT is the main object in the Palmare. It is ownership over this NFT
 
 Additionally, Profile NFTs contain a FollowModule. This module contains the logic that allows different accounts to be issued Follow NFTs to record their relationship to the main profile on-chain.
 
-Profiles can only be minted by addresses that have been whitelisted by governance. This ensures that, given the low-fee environment present on BSC, the namespace is not reserved by squatters.&#x20;
+Profiles can only be minted by addresses that have been whitelisted by governance. This ensures that, given the low-fee environment present on BSC, the namespace is not reserved by squatters.
+
+### Profile Metadata
+
+* Profession
+* Distance
+* Time
+* Elevation
+* Following
+* Followers
+* Achievement&#x20;
+* Post ID
+* Route ID
+
+In-Game Achievement and Badge user earned through completing Achievement is an NFT and can be earned by joining is tied to user's wallet address.
+
+
+
+&#x20;
