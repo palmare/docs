@@ -8,7 +8,9 @@ If the deadline is met, 3% of tokens will be released on Pancake Swap at the las
 
 ### **Token Release Schedule**
 
-**Initial Phase Offering** Purchased token is vested in 3 - 18 months. After each 5 rounds end, participants can swap $wPAL for $BUSD at the latest price with specific liquidity. For example, after round 10th end, users can access a 220,000 BUSD pool and swap $wPAL at a $0.0403 price.
+After purchasing the $PAL token, you can instantly claim **$**wPAL (wrap version of the $PAL token). You can use $wPAL as governance power which helps you get a better chance to win an NFT genesis event, get a bigger airdrop reward or stake to get $PAL with high APR. If you want to swap to $PAL token (1:1 ratio), check out this Token Release Schedule to swap back. Note: Swaping $wPAL will make you lost your governance power and chance to participate in future event.
+
+**Initial Phase Offering** Purchased token is vested in 3 - 18 months. After each 5 rounds end, participants can swap $wPAL for $BUSD at the latest price with specific liquidity. For example, after round 5th end, users can access a 220,000 BUSD pool and swap $wPAL at a $0.0248 price.
 
 | Tier             | Vesting           | Token Unlock Schedule            |
 | ---------------- | ----------------- | -------------------------------- |
