@@ -1,6 +1,6 @@
 # IPO (Initial Phase Offering)
 
-Palmare is a community-first Web3 project, so we decided **no VC power!** All 24.2% of the $PAL issued will be allocated to the community over 40 phases. The value of each $PAL will increase at each phase of the IPO. The sale will close 3 months after 1st round end. The hard cap is $20M, with the balance of tokens released on Pancake Swap.&#x20;
+**By Cyclist, for Cyclist.** Palmare is a community-first Web3 project, so we decided **no VC power!** All 24.2% of the $PAL issued will be allocated to the community over 40 phases. The value of each $PAL will increase at each phase of the IPO. The sale will close on Oct 28, 2022. The hard cap is $20M, with the balance of tokens released on Pancake Swap.&#x20;
 
 If the deadline is met, 3% of tokens will be released on Pancake Swap at the last phase price. The remaining tokens that have not been purchased will be :fire:**Burned** to prevent dilution for early investors.
 
