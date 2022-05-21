@@ -13,7 +13,6 @@
 * [SocialFi Network](game-system/socialfi-network.md)
 * [Bicycle](game-system/bicycle.md)
 * [Marketplace](game-system/marketplace.md)
-* [Upgrade & Sockets](game-system/upgrade-and-sockets.md)
 * [Rental System](game-system/rental-system.md)
 * [Earning System](game-system/earning-system.md)
 * [Lucky Draw System](game-system/lucky-draw-system.md)
