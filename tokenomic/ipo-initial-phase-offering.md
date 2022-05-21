@@ -8,7 +8,7 @@ If the deadline is met, 3% of tokens will be released on Pancake Swap at the las
 
 ### **Token Release Schedule**
 
-**Initial Phase Offering** Purchased token is vested in 3 - 18 months. After each ten rounds end, participants can swap $PAL for $BUSD at the latest price with specific liquidity. For example, after round 10th end, users can access a 220,000 BUSD pool and swap $PAL at a $0.0403 price.
+**Initial Phase Offering** Purchased token is vested in 3 - 18 months. After each 5 rounds end, participants can swap $wPAL for $BUSD at the latest price with specific liquidity. For example, after round 10th end, users can access a 220,000 BUSD pool and swap $wPAL at a $0.0403 price.
 
 | Tier             | Vesting           | Token Unlock Schedule            |
 | ---------------- | ----------------- | -------------------------------- |
