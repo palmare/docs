@@ -9,7 +9,7 @@
 ## Game System
 
 * [Training Mode](game-system/training-mode.md)
-* [Social Profile](game-system/social-profile.md)
+* [SocialFi Profile](game-system/socialfi-profile.md)
 * [SocialFi Network](game-system/socialfi-network.md)
 * [Bicycle](game-system/bicycle.md)
 * [Marketplace](game-system/marketplace.md)
