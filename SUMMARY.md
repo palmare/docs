@@ -8,15 +8,14 @@
 
 ## Game System
 
-* [Single Mode](game-system/single-mode.md)
-* [Adventure Mode](game-system/adventure-mode.md)
+* [Training Mode](game-system/training-mode.md)
+* [Social Profile](game-system/social-profile.md)
+* [SocialFi Network](game-system/socialfi-network.md)
 * [Bicycle](game-system/bicycle.md)
 * [Marketplace](game-system/marketplace.md)
 * [Upgrade & Sockets](game-system/upgrade-and-sockets.md)
-* [Bike Combination](game-system/bike-combination.md)
 * [Rental System](game-system/rental-system.md)
 * [Earning System](game-system/earning-system.md)
-* [Challenge Center](game-system/challenge-center.md)
 * [Lucky Draw System](game-system/lucky-draw-system.md)
 
 ## Tokenomic

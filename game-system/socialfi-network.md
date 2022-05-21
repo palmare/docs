@@ -1,18 +1,8 @@
-# Challenge Center
+# SocialFi Network
 
-![](<../.gitbook/assets/Desktop - 6 (1).png>)
+![](<../.gitbook/assets/Desktop - 6 (2).png>)
 
-Bring even more fun and connection to your ride, we created a social gaming network. Challenge Center lets cyclists build an identity on Palmare platforms and enables features like leaderboards, achievements, quests, dashboard, and more.
-
-### Quest System
-
-**Daily Quest:** Fix reward
-
-**Weekly Quest:** Gain reward
-
-**Monthly Quest:** Token reward
-
-**Special Quest:** Special NFT Bicycle Airdrop
+###
 
 ### **Leaderboards**
 
