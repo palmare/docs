@@ -1,29 +1,6 @@
 # Bicycle
 
-### Bicycle Attributes
 
-1. **Strength (PAS Earning) – Single-Mode, Racing Mode**\
-   ****In **Single Mode**, Efficiency plays a part in PAS earnings. Having a higher Efficiency Attribute will result in better PAS earnings per Energy spent.\
-   In **Racing Mode**, higher Efficiency leads to a faster accumulation of Leaderboard points.\
-
-2. **Luck (Mystery Chest) – Single-Mode, Bicycle Rental (Coming Soon)**\
-   ****Luck determines the frequency and quality of a Mystery Chest drop. Users are also able to receive Mystery Chest drops while their Bicycles are leased out.\
-
-3. **Dexterity (PAL Earning) – Single-Mode, Racing Mode, Staking/Governance (Under  Development)**\
-   ****The Comfort value has been reworked and is currently under development.\
-
-4.  **Endurance (Durability/Repair) – Single-Mode, Racing Mode**
-
-    In **Single Mode**, Endurance affects the decay rate of Durability. Higher Endurance will result in a slower Durability decay. \
-    \
-    The higher the Bicycle's level of quality, the higher the repair cost. Endurance is a Bicycle's “stamina” bar. As a user moves, Endurance will decrease. Bicycles receive a “worn-out” penalty at 2 Durability touchpoints:
-
-    1. At 50/100 Endurance, Bicycle Efficiency drops to 90%
-    2. At 20/100 Endurance, Bicycle Efficiency drops to 10%
-
-In **Racing Mode**, endurance will allow users to earn more points as their Bicycle will stay above the “worn-out” penalty mark longer.
-
-**Users will be able to burn PAS/PAL to reset the Bicycle's Attribute points. The more frequent the reset, the more expensive it will be, with the cost capping at a certain level.**
 
 ### Bicycle Types
 

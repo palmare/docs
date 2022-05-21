@@ -6,16 +6,16 @@ There is a total of 1,000,000,000 $PAL as a BEP20 token on the Binance Smart Cha
 
 ![](<../.gitbook/assets/Frame 2 (11).png>)
 
-|                   | Percentage of supply | Total PAL         |
-| ----------------- | -------------------- | ----------------- |
-| **Airdrop**       | 5%                   | 50,000,000        |
-| **Advisors**      | 3%                   | 30,000,000        |
-| **Team**          | 5%                   | 50,000,000        |
-| **Treasury**      | 12%                  | 120,000,000       |
-| **Ride to Earn**  | 47.8%                | 478,000,000       |
-| **Liquidity**     | 3%                   | 30,000,000        |
-| **IPO**           | 24.2%                | 242,000,000       |
-| **Total Supply**  | **100%**             | **1,000,000,000** |
+|                      | Percentage of supply | Total PAL         |
+| -------------------- | -------------------- | ----------------- |
+| **Airdrop**          | 5%                   | 50,000,000        |
+| **Advisors**         | 3%                   | 30,000,000        |
+| **Team**             | 5%                   | 50,000,000        |
+| **Treasury**         | 12%                  | 120,000,000       |
+| **Commuinty Reward** | 47.8%                | 478,000,000       |
+| **Liquidity**        | 3%                   | 30,000,000        |
+| **IPO**              | 24.2%                | 242,000,000       |
+| **Total Supply**     | **100%**             | **1,000,000,000** |
 
 
 
