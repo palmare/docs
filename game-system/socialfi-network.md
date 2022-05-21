@@ -1,6 +1,6 @@
 # SocialFi Network
 
-![](<../.gitbook/assets/Desktop - 6 (2).png>)
+![](<../.gitbook/assets/Desktop - 6 (3).png>)
 
 ### **Leaderboards**
 
