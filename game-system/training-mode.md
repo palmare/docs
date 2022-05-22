@@ -19,10 +19,10 @@ Once Energy is depleted, users stop earning tokens. They can either choose to ca
 **Training Activities Support**
 
 * Ride
-* Run
-* Swim
+* Run&#x20;
 * Walk
-* Hike
+* Swim (development mode)
+* Hike (development mode)
 
 Please be aware that most of Palmare's features are currently only available for our three core activity types, riding, running, and swimming. New Activities will be update base on Community decision.
 
