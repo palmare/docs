@@ -11,7 +11,7 @@ In Palmare, each user profile is a token itself. Users create a profile on the a
 
 Our app will provide social graph and earning features for Crypto fans and Non-crypto Users. We focus on three types of Earning:
 
-* **Ride & Burn to Earn** each sport you participate in can help you earn by burning calories (for riding a bike or any of your favorite sports)
+* **Train to Earn** each sport you participate in can help you earn by burning calories (for riding a bike or any of your favorite sports)
 * **Engage to Earn** users contribute content to the sports community and earn back from social engagement (include like, share, follow...)
 * **Check in to Earn** While users are riding, they can check in lots of places they came by, and for each period of time, We have quests for users to check in as much as they can to earn tokens.
 
