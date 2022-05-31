@@ -10,11 +10,11 @@ If the deadline is met, 3% of tokens will be released on Pancake Swap at the las
 
 After purchasing the $PAL token, you can instantly claim $sPAL (wrap & yield bearing version of the $PAL token). You can use $sPAL as governance power which helps you get a better chance to win an NFT genesis event, get a bigger airdrop reward or stake to get $sPAL with high APR. If you want to swap to $PAL token (1:1 ratio), wait for TGE event following Token Unlock Schedule below. Note: Swaping $sPAL will make you lost your governance power and chance to participate in future event.
 
-**Initial Phase Offering** Purchased token is vested in 3 - 18 months. After each 5 rounds end, participants can swap $sPAL for $BUSD at the latest price with specific liquidity. For example, after round 5th end, users can access a 220,000 BUSD pool and swap $sPAL at a $0.0248 price.
+**Initial Phase Offering** Purchased token is vested in 3 - 18 months. After each 5 rounds end, participants can swap $PAL for $BUSD at the latest price with specific liquidity. For example, after round 5th end, users can access a 220,000 BUSD pool and swap $PAL at a $0.0248 price.
 
 | Tier             | Vesting           | Token Unlock Schedule            |
 | ---------------- | ----------------- | -------------------------------- |
-| **Diamond Hand** | 18 months linear  | 5%, TGE start on 11st round      |
+| **Diamond Hand** | 18 months linear  | 5%, TGE start on 5th round       |
 | **Platinum**     | 12 months linear  | 7%, TGE start on next 2 rounds   |
 | **Gold**         | 9 months linear   | 9%, TGE start after each round   |
 | **Silver**       | 3 months linear   | 10%, TGE start after each round  |
