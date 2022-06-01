@@ -8,8 +8,8 @@ PAS has an unlimited supply and is earned when a user train in Training Mode or 
 
 The PAS is burned by:
 
-1. Bike-Repair
-2. Leveling up Bicycles
+1. NFT-Repair
+2. Leveling up NFT
 3. Upgrade SocialFi Profile
 4. Swap & Burn
 

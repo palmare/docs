@@ -8,17 +8,18 @@ If the deadline is met, 3% of tokens will be released on Pancake Swap at the las
 
 ### **Token Release Schedule**
 
-After purchasing the $PAL token, you can instantly claim $sPAL (wrap & yield bearing version of the $PAL token). You can use $sPAL as governance power which helps you get a better chance to win an NFT genesis event, get a bigger airdrop reward or stake to get $sPAL with high APR. If you want to swap to $PAL token (1:1 ratio), wait for TGE event following Token Unlock Schedule below. Note: Swaping $sPAL will make you lost your governance power and chance to participate in future event.
+After purchasing the $PAL token, you can instantly claim $sPAL (Smart PAL - wrap & yield bearing version of the $PAL token). You can stake $sPAL to get governance power which helps you get a better chance to win an NFT genesis event, get a bigger airdrop reward or get vesting $PAL token.  You will first get the vesting $PAL as staking reward when TGE start, please follow Token Unlock Schedule below. The unlock token on TGE event will be airdrop directly to the investor's wallet.\
+_**Note**: Unstaking $sPAL will make you lost your governance power and chance to participate in future event._&#x20;
 
-**Initial Phase Offering** Purchased token is vested in 3 - 18 months. After each 5 rounds end, participants can swap $PAL for $BUSD at the latest price with specific liquidity. For example, after round 5th end, users can access a 220,000 BUSD pool and swap $PAL at a $0.0248 price.
+**Initial Phase Offering** Purchased $PAL token is vested in 3 - 18 months. After each 5 rounds end, participants can swap $PAL for $BUSD at the latest price with specific liquidity. For example, after round 5th end, users can access a 220,000 BUSD pool and swap $PAL at a $0.0248 price.
 
-| Tier             | Vesting           | Token Unlock Schedule            |
-| ---------------- | ----------------- | -------------------------------- |
-| **Diamond Hand** | 18 months linear  | 5%, TGE start on 5th round       |
-| **Platinum**     | 12 months linear  | 7%, TGE start on next 2 rounds   |
-| **Gold**         | 9 months linear   | 9%, TGE start after each round   |
-| **Silver**       | 3 months linear   | 10%, TGE start after each round  |
-| **Airdrop**      | 3 months linear   | TGE 5 days after token launching |
+| Tier             | Vesting           | Token Unlock Schedule                     |
+| ---------------- | ----------------- | ----------------------------------------- |
+| **Diamond Hand** | 18 months linear  | 5% unlock on TGE, start on 5th round      |
+| **Platinum**     | 12 months linear  | 7% unlock on TGE, start on next 2 rounds  |
+| **Gold**         | 9 months linear   | 9% unlock on TGE, start after each round  |
+| **Silver**       | 3 months linear   | 10% unlock on TGE, start after each round |
+| **Airdrop**      | 3 months linear   | TGE 5 days after token launching          |
 
 **Team** 5% unlock on token launch event, then 6-month cliff period followed by 36 months vesting.
 
