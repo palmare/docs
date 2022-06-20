@@ -20,7 +20,7 @@
 ## Tokenomic
 
 * [PAS Token](tokenomic/pas-token.md)
-* [PAL Token](tokenomic/pal-token.md)
+* [PAL & sPAL Token](tokenomic/pal-and-spal-token.md)
 * [IPO (Initial Phase Offering)](tokenomic/ipo-initial-phase-offering.md)
 * [Governance & Voting](tokenomic/governance-and-voting.md)
 
