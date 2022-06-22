@@ -2,7 +2,9 @@
 
 ### Energy System
 
-Energy replenishes 25% every 6 hours until it reaches the Energy Cap. Users start with one Gear and 2 Energy Caps. Users can increase their max. Energy by holding more Gears. The calculation is as follows:
+Energy replenishes 25% every 6 hours until it reaches the Energy Cap. Users start with one Bicycle and 2 Energy Caps. Users can increase their max. Energy by holding more Bicycles. The calculation is as follows:
+
+
 
 | **Bicycles No.** | **Energy** | **Ride & earn time (min)** | **Note**     |
 | ---------------- | ---------- | -------------------------- | ------------ |
@@ -14,15 +16,15 @@ Energy replenishes 25% every 6 hours until it reaches the Energy Cap. Users star
 
 Additional Energy (cumulative) is given to users for higher Quality Bicycles:
 
-1. Owning an Uncommon Gear: +1 Energy
-2. Owning a Rare Gear: +2 Energy
-3. Owning an Epic Gear: +3 Energy
-4. Owning a Legendary Gear: +4 Energy
+1. Owning an Uncommon Bicycle: +1 Energy
+2. Owning a Rare Bicycle: +2 Energy
+3. Owning an Epic Bicycle: +3 Energy
+4. Owning a Legendary Bicycle: +4 Energy
 
 **EXAMPLE 1:**
 
-1 Uncommon Gear + 1 Common Gear = 3 Total Energy (2 Base Energy + 1 Bonus)
+1 Uncommon Bicycle + 1 Common Bicycle = 3 Total Energy (2 Base Energy + 1 Bonus)
 
 **EXAMPLE 2:**
 
-2 Rare Gear + 1 Common Gear = 8 Total Energy (4 Base Energy + 4 Bonus)
+2 Rare Bicycle + 1 Common Bicycle = 8 Total Energy (4 Base Energy + 4 Bonus)
