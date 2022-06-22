@@ -2,7 +2,7 @@
 
 ### Training Mode
 
-In Traning Mode, users are equipped with NFT specific to their favorite sport to earn tokens by training. To earn token users need to burn calories in training and submit their result to socialfi network to verify their activity.\
+In Traning Mode, users are equipped with NFT specific to their favorite sport to earn tokens by training. To earn token users need to burn calories in training and submit their result to SocialFi network to verify their activity.\
 \
 In our first version app, we intergate cycling sport for cyclist community. Energy is needed to earn PAS tokens. Every 1 Energy equals 7 minutes of training & earn movement and Energy which ONLY starts replenishing after users acquire an Gear NFT. To begin, users select a Gear of their choice, and press **Start button** ▶
 
