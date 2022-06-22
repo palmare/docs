@@ -33,11 +33,11 @@ There are five Gear qualities. When a Gear is minted, the value of each Attribut
 | **Epic**      | 28             | 63             |
 | **Legendary** | 45             | 95             |
 
-### Bicycle Level
+### Gear Level
 
-Users can level up their Bicycles by burning **PAS**. Each level-up takes a fixed time to complete, which increases along with the amount of **PAS** required according to the Bicycle level. This process can be sped up by using even more **PAS**.
+Users can level up their Gear by burning **PAS**. Each level-up takes a fixed time to complete, which increases along with the amount of **PAS** required according to the Gear level. This process can be sped up by using even more **PAS**.
 
-Additionally, **PAL** will also be required to level Epic & Legendary Bicycle to Max Level.
+Additionally, **PAL** will also be required to level Epic & Legendary Gear to Max Level.
 
 | Quality       | PAL/PAS Multiplies |
 | ------------- | ------------------ |

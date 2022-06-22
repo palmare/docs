@@ -1,6 +1,6 @@
 # Marketplace
 
-The Marketplace is where users can rent/lease or sell/buy their NFT Gears, Badges, and Trainer Profile. A simple filter and sort function is available in the Marketplace for easy navigation.
+The Marketplace is where users can rent/lease or sell/buy their NFT Bicycles, Badges, and Trainer Profile. A simple filter and sort function is available in the Marketplace for easy navigation.
 
 The 2% Marketplace Trading Fee is reserved to use case below:
 

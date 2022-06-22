@@ -17,8 +17,8 @@ The app will generate a 12-word secret phrase. This will be used to recover your
 
 Transfer BUSD to in-app wallet to buy NFT Bicycle in the Marketplace and always keep some BNB as gas in your Wallet account.
 
-### **Purchase a Gear NFT**
+### **Purchase a Bicycle**
 
-Head over to the in-app Marketplace and pick out a **Gear**! You can use the Filter tool to look for a Gear type of your preference (like bikes, shoes, etc). Ensure you have enough BUSD for the purchase.
+Head over to the in-app Marketplace and pick out a **Bicycle**! You can use the Filter tool to look for a Bicycle type of your preference. Ensure you have enough BUSD for the purchase.
 
-:tada:Congrats! You are all set. After the purchase of a Gear, energy will restore at a rate of 25% every 6 hours. **You can start your Palmare journey immediately after the first 25% energy restoration.**
+:tada:Congrats! You are all set. After the purchase of a Bicycle, energy will restore at a rate of 25% every 6 hours. **You can start your Plamare journey immediately after the first 25% energy restoration.**
