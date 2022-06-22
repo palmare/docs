@@ -2,9 +2,9 @@
 
 ### Lucky Draw System
 
-Users who ride daily with more than 20km can earn 1 free lottery ticket. Users can use this ticket to join the weekly Lucky Draw event.&#x20;
+Users who train daily with more than average calories burned can earn 1 free lottery ticket. Users can use this ticket to join the weekly Lucky Draw event.&#x20;
 
-There are four types of reward, including Mystery Chest, Warrior Bicycle & PAS:
+There are four types of reward, including Mystery Chest, Uncommon Type Gear & PAS:
 
 | **Rank** | **No of Prize** | **Prize**           |
 | --------- | --------------- | ------------------- |
