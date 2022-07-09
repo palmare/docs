@@ -13,13 +13,12 @@ _**Note**: Unstaking $sPAL will make you lost your governance power and chance t
 
 **Initial Phase Offering** Purchased $PAL token is vested in 3 - 18 months. After each 5 rounds end, participants can swap $PAL for $BUSD at the latest price with specific liquidity. For example, after round 5th end, users can access a 220,000 BUSD pool and swap $PAL at a $0.0248 price.
 
-| Tier             | Vesting           | Token Unlock Schedule                     |
-| ---------------- | ----------------- | ----------------------------------------- |
-| **Diamond Hand** | 18 months linear  | 5% unlock on TGE, start on 5th round      |
-| **Platinum**     | 12 months linear  | 7% unlock on TGE, start on next 2 rounds  |
-| **Gold**         | 9 months linear   | 9% unlock on TGE, start after each round  |
-| **Silver**       | 3 months linear   | 10% unlock on TGE, start after each round |
-| **Airdrop**      | 3 months linear   | TGE 5 days after token launching          |
+| Tier             | Vesting           | Token Unlock Schedule                                     |
+| ---------------- | ----------------- | --------------------------------------------------------- |
+| **Diamond Hand** | 15 months linear  | 15% unlock instanly after purchasing, 85% vesting monthly |
+| **Platinum**     | 12 months linear  | 10% unlock instanly after purchasing, 90% vesting monthly |
+| **Gold**         | 9 months linear   | 8% unlock instanly after purchasing, 92% vesting monthly  |
+| **Silver**       | 6 months linear   | 5% unlock instanly after purchasing, 95% vesting monthly  |
 
 **Team** 5% unlock on token launch event, then 6-month cliff period followed by 36 months vesting.
 
