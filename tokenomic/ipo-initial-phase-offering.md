@@ -8,7 +8,7 @@ If the deadline is met, 3% of tokens will be released on Pancake Swap at the las
 
 ### **Token Release Schedule**
 
-After purchasing the $PAL token, you get instantly a portion of the purchased token and the rest will be distributed in the vesting schedule. Each purchaser can get a different tier based on the round number they joined.\
+After purchasing the $PAL token, you get instantly a portion of the purchased token and the rest will be distributed following the vesting schedule. Each purchaser can get a different tier based on the round number they joined.\
 
 
 **Initial Phase Offering** Purchased $PAL token is vested in 6 - 15 months. After each 5 rounds end, participants can swap $PAL for $BUSD at the latest price with specific liquidity. For example, after round 5th end, users can access a 220,000 BUSD pool and swap $PAL at a $0.0248 price.
