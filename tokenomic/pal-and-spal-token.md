@@ -2,6 +2,14 @@
 
 ## **PAL Token**
 
+### PA**L** Utilities
+
+* Earning (only in Weekly and Monthly Challenge and specific event)
+* Upgrade Profile NFT
+* In the marketplace (buying specific NFT...)
+* Governance
+* Challenge Proposal
+
 ### **Total** **Supply**
 
 There is a total of 1,000,000,000 $PAL as a BEP20 token on the Binance Smart Chain.&#x20;
@@ -41,7 +49,7 @@ People can get sPAL by contributing to project marketing in early stage, helping
 
 ### How to get PAL from sPAL
 
-After getting $sPAL, you need to stake $sPAL to get vesting PAL as staking reward. The APR will be 5% per month. For example: If you get 200 $sPAL, you stake all the sPAL and you will get 10 $PAL per month . The yield reward is locked in at least 1 month after IPO begin.
+After getting $sPAL, you need to stake $sPAL to get vesting PAL as staking reward. The  APR will be 5% per month. For example: If you get 200 $sPAL, you stake all the sPAL and you will get 10 $PAL per month . The yield reward is locked in at least 1 month after IPO begin.
 
 _**Note**: Unstaking $sPAL will make you lost your governance power and chance to participate in future event._&#x20;
 
