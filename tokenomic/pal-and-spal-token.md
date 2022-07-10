@@ -25,7 +25,7 @@ There is a total of 1,000,000,000 $PAL as a BEP20 token on the Binance Smart Cha
 
 47.8% of total PAL will be distributed to users through Train to Earn & Check in to Earn reward. To ensure the longevity of the Palmare project, the total release of PAL will halve every two years.
 
-The purchased token will be unlocked and vested base on the Tier of participants (more information from IPO section)
+The purchased token will be unlocked and vested base on the Tier of participants following [Token Release Schedule](ipo-initial-phase-offering.md#referal-to-earn)
 
 The airdrop token will be unlocked after the IPO end and token launching on Pancakeswap.
 
@@ -35,7 +35,9 @@ The airdrop token will be unlocked after the IPO end and token launching on Panc
 
 ### What is sPAL
 
-sPAL is Smart PAL - A Wrap & Yield Vesting token of $PAL token. It mean you can get PAL with 1:1 ratio by staking sPAL for a period of time . People can get sPAL by contributing to project marketing in early stage, and helping growing and bringing benefit to Palmare community. Beside staking reward, you can get governance power which helps you get a better chance to win an NFT Genesis event, get a bigger airdrop reward...&#x20;
+sPAL is Smart PAL - A Wrap & Yield Vesting token of $PAL token. It mean you can get PAL with 1:1 ratio by staking sPAL for a period of time . \
+\
+People can get sPAL by contributing to project marketing in early stage, and helping growing and bringing benefit to Palmare community. We chose this vesting method because we want sPAL recipients to commit to a long-term contribution to the Palmare community instead of just participating for short-term profit. Beside staking reward, you can get governance power which helps you get a better chance to win an NFT Genesis event, get a bigger airdrop reward...&#x20;
 
 ### How to get PAL from sPAL
 
