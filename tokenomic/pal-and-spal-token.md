@@ -37,7 +37,7 @@ The airdrop token will be unlocked after the IPO end and token launching on Panc
 
 sPAL is Smart PAL - A Wrap & Yield Vesting token of $PAL token. It mean you can get PAL with 1:1 ratio by staking sPAL for a period of time . \
 \
-People can get sPAL by contributing to project marketing in early stage, and helping growing and bringing benefit to Palmare community. We chose this vesting method because we want sPAL recipients to commit to a long-term contribution to the Palmare community instead of just participating for short-term profit. Beside staking reward, you can get governance power which helps you get a better chance to win an NFT Genesis event, get a bigger airdrop reward...&#x20;
+People can get sPAL by contributing to project marketing in early stage, helping growing and bringing benefit to Palmare community. We chose this vesting method because we want sPAL recipients to commit to a long-term contribution to the Palmare community instead of just participating for short-term profit. Beside staking reward, you can get governance power which helps you get a better chance to win an NFT Genesis event, get a bigger airdrop reward...&#x20;
 
 ### How to get PAL from sPAL
 
