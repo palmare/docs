@@ -10,15 +10,15 @@ Profiles can only be minted by addresses that have been whitelisted by governanc
 
 ### Profile Metadata
 
+* Name
+* Gender
+* Age
+* Nationality
 * Profession
 * Distance
-* Time
-* Elevation
-* Following
-* Followers
-* Achievement&#x20;
-* Post ID
-* Route ID
+* Time&#x20;
+* Elev Gain
+* Runs
 
 ### All types of NFT in Palmare SocialFi:
 
