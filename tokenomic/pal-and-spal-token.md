@@ -31,20 +31,21 @@ The airdrop token will be unlocked after the IPO end and token launching on Panc
 
 ## sPAL Token
 
-After purchasing the $PAL token, you can instantly claim $sPAL with 1:1 ratio to $PAL allocation you purchased.&#x20;
+
 
 ### What is sPAL
 
-sPAL is Smart PAL - A Wrap & Yield Vesting token the $PAL token. Total supply of $sPAL is 1,000,000,000 same as $PAL token. You can stake $sPAL to get governance power which helps you get a better chance to win an NFT Genesis event, get a bigger airdrop reward...&#x20;
+sPAL is Smart PAL - A Wrap & Yield Vesting token of $PAL token. It mean you can get PAL with 1:1 ratio by staking sPAL for a period of time . People can get sPAL by contributing to project marketing in early stage, and helping growing and bringing benefit to Palmare community. Beside staking reward, you can get governance power which helps you get a better chance to win an NFT Genesis event, get a bigger airdrop reward...&#x20;
 
-### How to get PAL from PAL
+### How to get PAL from sPAL
 
-After claiming $sPAL in IPO, you need to stake $sPAL to get vesting PAL as staking reward. Token vesting will follow tiers in the [Token Release Schedule](ipo-initial-phase-offering.md#token-release-schedule) For example: If you invest in Round 3, you got Diamond Hand tier and you will get 5% PAL allocation send directly to your wallet on TGE, 95% token left will be distributed in 18 months as reward from staking $sPAL. If you unstake, the vesting will be paused and need to stake to resume.
+After getting $sPAL, you need to stake $sPAL to get vesting PAL as staking reward. The APR will be 5% per month. For example: If you get 200 $sPAL, you stake all the sPAL and you will get 10 $PAL per month . The yield reward is locked in at least 1 month after IPO begin.
+
+_**Note**: Unstaking $sPAL will make you lost your governance power and chance to participate in future event._&#x20;
 
 ### What is Swap Fix event&#x20;
 
 This is an event that opens on each 5 rounds, any investors can join and swap $PAL to BUSD if they want. The pool size grows up as round number increases. For example in Round 5, we will open a 100,000$ pool that you can swap $PAL to BUSD in FCFS basis.  &#x20;
 
 The main benefit of this event is that investor can exit liquidity early if they want and protect late round investors from token dumping and price violation. \
-&#x20;\
-_**Note**: Unstaking $sPAL will make you lost your governance power and chance to participate in future event._&#x20;
+&#x20;
