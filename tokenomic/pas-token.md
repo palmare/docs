@@ -6,7 +6,7 @@ PAS has an unlimited supply and is earned when a user trains in Training Mode or
 
 ### PAS Utilities
 
-* Earning
+* Earning in Training Sports
 * Upgrade Gear NFT in-game
 * Achievement points
 
