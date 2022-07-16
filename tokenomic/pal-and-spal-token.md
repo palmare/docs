@@ -5,10 +5,10 @@
 ### PA**L** Utilities
 
 * Earning (only in Weekly and Monthly Challenge and specific event)
-* Upgrade Profile NFT
+* Upgrade Profile NFT (extra perks, abilities... )
 * In the marketplace (buying specific NFT...)
 * Governance
-* Challenge Proposal
+* SocialFi Viral Boost
 
 ### **Total** **Supply**
 
