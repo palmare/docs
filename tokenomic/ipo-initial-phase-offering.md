@@ -13,12 +13,13 @@ After purchasing the $PAL token, you get instantly a portion of the purchased to
 
 **Initial Phase Offering** Purchased $PAL token is vested in 6 - 15 months. After each 5 rounds end, participants can swap $PAL for $BUSD at the latest price with specific liquidity. For example, after round 5th end, users can access a 220,000 BUSD pool and swap $PAL at a $0.0248 price.
 
-| Tier             | Vesting           | Token Unlock Schedule                                     |
-| ---------------- | ----------------- | --------------------------------------------------------- |
-| **Diamond Hand** | 15 months linear  | 15% unlock instanly after purchasing, 85% vesting monthly |
-| **Platinum**     | 12 months linear  | 10% unlock instanly after purchasing, 90% vesting monthly |
-| **Gold**         | 9 months linear   | 8% unlock instanly after purchasing, 92% vesting monthly  |
-| **Silver**       | 6 months linear   | 5% unlock instanly after purchasing, 95% vesting monthly  |
+| Tier              | Vesting           | Token Unlock Schedule                                     |
+| ----------------- | ----------------- | --------------------------------------------------------- |
+| **Genesis Round** | 12 months linear  | 20% unlock instanly after purchasing, 80% vesting monthly |
+| **Diamond Hand**  | 15 months linear  | 15% unlock instanly after purchasing, 85% vesting monthly |
+| **Platinum**      | 12 months linear  | 10% unlock instanly after purchasing, 90% vesting monthly |
+| **Gold**          | 9 months linear   | 8% unlock instanly after purchasing, 92% vesting monthly  |
+| **Silver**        | 6 months linear   | 5% unlock instanly after purchasing, 95% vesting monthly  |
 
 **Team** 5% unlock on token launch event, then 6-month cliff period followed by 36 months vesting.
 
@@ -26,7 +27,7 @@ After purchasing the $PAL token, you get instantly a portion of the purchased to
 
 ### &#x20;**Referal to Earn**&#x20;
 
-Refer any participant to join the IPO, and then you can earn up to 6% commission on their deposits! Commission will be airdrop to your wallet in BUSD after phase 10 ends.&#x20;
+Refer any participant to join the IPO, and then you can earn up to 6% commission on their deposits! Commission will be instantly tranffered to your wallet.
 
 | Level | Commission from each phase | Token |
 | ----- | -------------------------- | ----- |
@@ -39,8 +40,9 @@ Refer any participant to join the IPO, and then you can earn up to 6% commission
 
 | Phase                 | Price per token | Total Token Supplied | ROI      | Initial Market Cap |
 | --------------------- | --------------- | -------------------- | -------- | ------------------ |
-| **Diamond Hand Tier** |                 |                      |          |                    |
+| **Genesis Round**     |                 |                      |          |                    |
 | 1                     | 0.0124          | 17,692,312           | 0%       | 219,384            |
+| **Diamond Hand Tier** |                 |                      |          |                    |
 | 2                     | 0.0155          | 31,885,860           | 25%      | 494,230            |
 | 3                     | 0.0186          | 43,713,817           | 50%      | 813,076            |
 | 4                     | 0.0217          | 53,852,065           | 75%      | 1,168,589          |
