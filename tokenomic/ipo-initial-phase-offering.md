@@ -27,7 +27,7 @@ After purchasing the $PAL token, you get instantly a portion of the purchased to
 
 ### &#x20;**Referal to Earn**&#x20;
 
-Refer any participant to join the IPO, and then you can earn up to 6% commission on their deposits! Commission will be instantly tranffered to your wallet in .
+Refer any participant to join the IPO, and then you can earn up to 6% commission on their deposits, 2% bonus from total reward of level 2 referrers. Commission will be instantly transferred to your wallet in BUSD.
 
 | Level | Commission from each phase | Token |
 | ----- | -------------------------- | ----- |
